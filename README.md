@@ -16,6 +16,8 @@ This project demonstrates how to customize a basic React Native app by changing 
 4. **Make my Name Bold**
    - Ensured that the name `Albert Tetteh` is displayed in bold within the sentence.
 5. **Images of the App**
- - ![image](MyNewApp\assets\WhatsApp Image 2024-05-27 at 06.12.18_01c7d5ac.jpg)
+![Example Image](C:\Users\Brago Abigail Adjoa\Documents\GitHub\-rn-assignment2-ID-11330761\MyNewApp\WhatsApp Image.jpg)
+
+
 
    
