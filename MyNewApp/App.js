@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style = {styles.largeText}>My name is
-       <Text style = {styles.boldText}>Albert Tetteh </Text></Text>
+       <Text style = {styles.boldText}>  Albert Tetteh </Text></Text>
       <StatusBar style="auto" />
     </View>
   );
